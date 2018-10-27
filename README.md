@@ -1,1 +1,1 @@
-# RaionAcademy2ndWeek_Unfinished
+# Simple Memo Application Unfinished Project
